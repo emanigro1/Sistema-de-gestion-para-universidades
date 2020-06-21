@@ -1,6 +1,6 @@
 Trabajo practico integrador para la Universidad Nacional de Lanus
 ======
-Sistema de Gestion para Universidades
+Sistema de Gestión para Universidades
 ------
 Observaciones:
 -	Este trabajo practico es obligatoriopara aprobar la materia
